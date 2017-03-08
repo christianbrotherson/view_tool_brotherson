@@ -18,7 +18,7 @@ Or install it yourself as:
 
     $ gem install view_tool_brotherson
 
-## Usage
+## Usage 
 
 ```
 DevcampViewTool::Renderer.copyright 'Christian Brotherson', 'All rights reserved'
