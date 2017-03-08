@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```
+DevcampViewTool::Renderer.copyright 'Christian Brotherson', 'All rights reserved'
+```
 
 ## Development
 
